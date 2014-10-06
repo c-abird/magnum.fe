@@ -1,6 +1,11 @@
 magnum.fe
 =========
 
+Moved
+-----
+**The development of magnum.fe has been moved to https://github.com/micromagnetics/magnum.fe !
+This repository is no longer updated.**
+
 Installation
 ------------
 
